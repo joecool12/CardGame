@@ -19,6 +19,9 @@ namespace CardDeck
     {
         static void Main()
         {
+        
+        private string NameofPlayer;
+        
             Console.WriteLine("Welcome to the card game?");
             Console.WriteLine("Press enter to draw your hand");
             Console.ReadKey();
