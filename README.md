@@ -26,6 +26,7 @@ namespace CardDeck
 
             Deck myDeck = new Deck();
 
+//checking to see if it works
 
             List<Card> shuffleDeck = new List<Card>();
             Random r = new Random();
